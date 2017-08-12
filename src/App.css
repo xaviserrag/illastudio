@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: bold
+}
+
+.App .nav-bar {
+  height: 80px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #d2d2d2;
+  background-color: #fcfcfc;
+  line-height: 80px;
+}
+
+.App .nav-bar img {
+  margin-top: 15px;
+}
+
+.App .nav-bar .description {
+  text-align: right;
+}
+
+.App .header {
+  margin-bottom: 40px;
+}
+
+.App .header-title {
+  font-size: 34px;
+  color: #656565;
+  margin-bottom: 30px;
+}
+
+.App .btn.btn-start {
+  background-color: #ffc024;
+  box-shadow: 0px 4px 0px #d89b1e;
+  color: #fff;
+  width: 205px;
+  height: 58px;
+  line-height: 42px;
+  font-size: 29px;
+  margin-bottom: 30px;
+}
+
+.App .info {
+  margin-bottom: 40px;
+}
+
+.App .description {
+  font-weight: normal;
+  color: #656565;
+  font-size: 16px;
+}
+
+.App .title  {
+  color: #ffc024;
+  font-size: 23px;
+}
+
+.App .info .title  {
+  margin-bottom: 20px;
+}
+
+.App .info .description  {
+  line-height: 32px;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.App .footer  {
+  height: 80px;
+  border-top: 1px solid #d2d2d2;
+  line-height: 60px;
+  color: #d2d2d2;
+}
+
+.App .powered a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.App .powered a:hover {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 10px;
+
+}
+
+.App .powered a:active {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 10px;
+
+}
+
+.App .powered a:visited {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 10px;
+
+}

@@ -1,0 +1,8 @@
+{
+  "short_name": "Get started with Bitcoin",
+  "name": "Get started with Bitcoin and Ethereum - Free bitcoins!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
